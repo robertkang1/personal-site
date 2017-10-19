@@ -1,0 +1,17 @@
+* {
+	background-color: lightblue;
+
+}
+body {
+	color: black;
+}
+p {
+	font: garamond;
+	font-size: 110%;
+}
+h1 {
+	text-align: center
+}
+h2 {
+	text-align: center;
+}
